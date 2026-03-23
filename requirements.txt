@@ -1,0 +1,10 @@
+pandas==3.0.1
+numpy==2.4.3
+scikit-learn==1.6.1
+matplotlib==3.10.8
+contourpy==1.3.3 
+cycler==0.12.1 
+fonttools==4.62.1 
+kiwisolver==1.5.0
+pillow==12.1.1 
+seaborn==0.13.2
