@@ -212,4 +212,6 @@ __marimo__/
 *.csv
 *.npy
 
+# Dataset File
+data/
 *.DS_Store
