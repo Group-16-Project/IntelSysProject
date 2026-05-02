@@ -1,5 +1,3 @@
-/models
-
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
@@ -208,10 +206,11 @@ marimo/_static/
 marimo/_lsp/
 __marimo__/
 
-# Model outputs
-*.csv
-*.npy
+# Model
+models/
+
 
 # Dataset File
-data/
+cleaned/
+aligned/
 *.DS_Store
