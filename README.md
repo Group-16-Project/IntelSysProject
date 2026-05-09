@@ -147,19 +147,11 @@ All required libraries are installed within the notebooks using `%pip install`. 
 
 ## Running the Pipeline
 
-### Option 1: Sequential Manual Execution
-
 1. Open and run all three ingestion notebooks in any order
 2. Open and run `cross_dataset_experiment.ipynb`
 3. Open and run `feature_importance_analysis.ipynb`
 4. Open and run `reduced_feature_analysis.ipynb`
 
-### Option 2: Quick Start (Recommended)
-
-If models are already trained and saved in `models/`, you can skip ingestion and cross-dataset experiment:
-
-- Jump directly to `feature_importance_analysis.ipynb`
-- Then run `reduced_feature_analysis.ipynb`
 
 ## Models Saved
 
