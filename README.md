@@ -187,3 +187,11 @@ Additional shared files:
 - **FileNotFoundError**: Ensure you've completed all prior stages. Check that output files exist before proceeding to the next notebook.
 - **Missing Models**: If running feature importance or reduced feature analysis, ensure cross-dataset experiment has completed and models are saved to `models/`.
 - **Memory Issues**: Large datasets may require increased notebook kernel memory. Restart kernel if experiencing slowdowns.
+
+## Colab Notebook Links
+**Dataset 1 ingestion**: https://colab.research.google.com/drive/1s-KeSmRXHP71xa1OFZZJUEd9D-0putgh?usp=sharing
+**Dataset 2 ingestion**: https://colab.research.google.com/drive/14uCqi0mscErPEZkUQP-rVN0Osdj7cjbY?usp=sharing
+**Dataset 3 ingestion**: https://colab.research.google.com/drive/1uyY2Jend_mYAQimmec1ese1qL1kGuQoK?usp=sharing
+**Cross Dataset Experiment**: https://colab.research.google.com/drive/11yve0TArw7VuJI-w5iWQLfIJBxv8VnuG?usp=sharing
+**Feature Importance Experiment**: https://colab.research.google.com/drive/1wplsAAw0JnxNBOBGpRMIXDwVn75O7fAM?usp=sharing
+**Reduced Feature Experiment**: https://colab.research.google.com/drive/1LGMCvE8zKIfk9bI6gdFSgGPDcIhs3Slp?usp=sharing
